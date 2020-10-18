@@ -27,18 +27,18 @@ h3 {
 
 /* the styles for the section */
 
-	.h1{
+	h1{
 		font-size: 150%;
 	}
-	.h2{
+	h2{
 		font-size: 130%;
 		color: #800000;
 	}
-	.h3{
+	h3{
 		font-size: 105%;
 	}
 	
-	.a:hover{
+	a:hover{
 		font-style:italic;
 	}
 	main{
