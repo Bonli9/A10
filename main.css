@@ -37,10 +37,7 @@ h3 {
 	.h3{
 		font-size: 105%;
 	}
-	a:link{
-		color:green;
-		text-decoration: none;
-	}
+	
 	.a:hover{
 		font-style:italic;
 	}
